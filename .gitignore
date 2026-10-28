@@ -1,0 +1,12 @@
+# Ignore local editor/system files
+.DS_Store
+Thumbs.db
+
+# Ignore SQL Server local DB files if used
+*.ldf
+*.mdf
+*.ndf
+
+# Ignore logs and temp files
+*.log
+*.tmp
